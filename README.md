@@ -1,12 +1,10 @@
 # Project-Haku-Desktop
 
-## Preview
+## Preview & Video Demo
 
-<img src="preview.png" width=720px>
+[![](./preview.png)](https://www.youtube.com/watch?v=Fta23AA97SM)
 
-## Video Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fta23AA97SM" frameborder="0" allowfullscreen></iframe>
+(Click to preview video on Youtube)
 
 P.S. I record this with application only, since the record software I use drops fps while recordering :(
 
