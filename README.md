@@ -1,5 +1,9 @@
 # Project-Haku-Desktop
 
+This is a extra product from [Project Haku](https://github.com/yanagiragi/Project-Haku)
+
+<br />
+
 ## Preview & Video Demo
 
 [![](./preview.png)](https://www.youtube.com/watch?v=Fta23AA97SM)
