@@ -10,7 +10,7 @@ This is a extra product from [Project Haku](https://github.com/yanagiragi/Projec
 
 (Click to preview video on Youtube)
 
-P.S. I record this with application only, since the record software I use drops fps while recordering :(
+P.S. I record this with application only, since the record software I use drops fps when recordering :(
 
 ## Credits:
 
